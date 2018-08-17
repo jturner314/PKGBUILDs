@@ -24,7 +24,7 @@ source=("http://www.kernel.org/pub/linux/kernel/v4.x/${_srcname}.tar.xz"
         'linux.preset'
         '99-linux.hook')
 md5sums=('bee5fe53ee1c3142b8f0c12c0d3348f9'
-         '783fdfc4ed73feccdaccda071c593991'
+         '3de67f7563860e147856b6fa666b4e2a'
          '4f2379ed84258050edb858ee8d281678'
          '61c5ff73c136ed07a7aadbf58db3d96a'
          '584777ae88bce2c5659960151b64c7d8'
